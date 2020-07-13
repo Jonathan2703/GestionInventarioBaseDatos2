@@ -16,7 +16,7 @@ function iniciar(e){
         console.log('el tam es '+data.length)
     if(data.length==1){
         console.log('si encuentra suaurio')
-        window.location.href = "dashboard/index.php";
+        window.location.href = "dashboard/inicio.php";
     }
 
         
