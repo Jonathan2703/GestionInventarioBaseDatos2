@@ -74,9 +74,9 @@
 
       <!-- Nav Item - Dashboard -->
       <li class="nav-item active">
-        <a class="nav-link" href="inicio.php">
+        <a class="nav-link" href="acercade.php">
           <i class="fas fa-fw fa-tachometer-alt"></i>
-          <span>Menu</span></a>
+          <span>Acerca De</span></a>
       </li>
 
       <!-- Divider -->
@@ -115,7 +115,7 @@
             <a class="collapse-item" href="id.php">ID</a>
             <a class="collapse-item" href="ubicacion.php">Ubicación</a>
             <a class="collapse-item" href="stockMinimo.php">    <button id="solicitarAgotados" >Agotados</button>
-</a>
+        </a>
             
           </div>
         </div>

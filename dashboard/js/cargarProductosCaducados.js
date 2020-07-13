@@ -1,5 +1,7 @@
 
-var request = new Request('https://heroku-demochris.herokuapp.com/api/producto/1/estado?estado=3');
+
+var request = new Request('https://heroku-demochris.herokuapp.com/api/producto/1/estado?estado=2');
+
 productosCaducados()
 function productosCaducados() {
     console.log('productos caducados')

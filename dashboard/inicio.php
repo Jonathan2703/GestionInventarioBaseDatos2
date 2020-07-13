@@ -11,7 +11,7 @@
     <img src="images/logou.png" width="200" height="200">
   </div>
   <div class="blacksection">
-    <h1>Gestión<br>De<br>Invetarios</h1>
+    <h1>Gestión<br>De<br>Inventarios</h1>
   </div>
 </section>
 
